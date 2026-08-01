@@ -1,0 +1,14 @@
+{
+  "repo": "pic-collage",
+  "feeds": [
+    {
+      "source": "https://piccollage.com",
+      "feed_url": "https://piccollage.com/blog/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-25T15:00:33Z"
+}
